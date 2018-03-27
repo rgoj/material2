@@ -158,7 +158,7 @@ interaction, model updates, time-based intervals, etc.
 #### Flat tree
 
 The flat tree data source is responsible for the node expansion/collapsing events, since when
-the expansion status changes, the data nodes feed to the tree are changed. A new list of visible
+the expansion status changes, the data nodes fed to the tree are changed. A new list of visible
 nodes should be sent to tree component based on current expansion status.
 
 
